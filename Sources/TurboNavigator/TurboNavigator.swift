@@ -80,8 +80,8 @@ public class TurboNavigator {
         }
     }
 
-    let session: Session
-    let modalSession: Session
+    public let session: Session
+    public let modalSession: Session
 
     // MARK: Private
 
