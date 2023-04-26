@@ -80,8 +80,6 @@ public class TurboNavigator {
         }
     }
 
-    // MARK: Internal
-
     let session: Session
     let modalSession: Session
 
